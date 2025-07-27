@@ -16,7 +16,10 @@ Diseñé una página de preguntas frecuentes utilizando solo HTML y CSS, con foc
 
 ## Captura de pantalla
 ### Vista para Desktop
-![Vista del proyecto para desktop](./assets/desktop.png)
+![Vista del proyecto para desktop](./assets/desktop.jpg)
+
+### Vista para Mobile
+![Vista del proyecto para móvil](./assets/mobile.jpg)
 
 ## Créditos
 - Desafío propuesto por [DevChallenges.io](https://devchallenges.io)
