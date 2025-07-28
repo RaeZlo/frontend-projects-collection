@@ -24,3 +24,7 @@ Los proyectos están basados en ejercicios tomados de diferentes plataformas:
 - [DevChallenges](https://devchallenges.io)
 - [Frontend Mentor](https://www.frontendmentor.io)
 
+## Lista de Proyectos
+| Proyecto   | Tecnologías           | Enlace                                                  |
+| ---------- | --------------------- | ------------------------------------------------------- |
+| Simple FAQ | HTML, CSS             | [Ver Codigo](https://github.com/RaeZlo/frontend-projects-collection/tree/devchallenges/simple-faq) |
